@@ -47,8 +47,7 @@ Abaixo a descrição de cada um dos campos da base:
 | mediana_teste_espanhol_candidato | Mediana das notas obtidas pelos candidatos em testes de espanhol|
 | mediana_teste_logica_candidato | Mediana das notas obtidas pelos candidatos em testes de lógica|
 | mediana_teste_outros_candidato | Mediana das notas obtidas pelos candidatos em outros testes gerais|
-| cargo_vaga | Cargo “normalizado” (processo de padronização) referente à 
-posição requerida na vaga. Pode conter dados sem classificação|
+| cargo_vaga | Cargo “normalizado” (processo de padronização) referente à posição requerida na vaga. Pode conter dados sem classificação|
 | nivel_vaga | Nível profissional requerido na vaga|
 | formacao_vaga | Formação Acadêmica requerida na vaga|
 | cidade_vaga | Nome da cidade para atuação do profissional|
