@@ -2,13 +2,13 @@
 
 ## Descrição
 
-Os analistas de RH conduzem diversos processos seletivos simultaneamente e geralmente possuem pouco tempo para selecionarem o candidato certo para suas vagas. 
+Os analistas de RH conduzem diversos processos seletivos simultaneamente e geralmente possuem pouco tempo para selecionarem o candidato certo para suas vagas.
 
-Para facilitar a vida dos analistas de RH: você como cientista de dados recebeu o desafio de modelar uma máquina de aprendizado de classificação: capaz de prever o comportamento dos analistas no processo seletivo: ou seja: prever quais candidatos os analistas aprovariam em cada processo. 
+Para facilitar a vida dos analistas de RH, você como cientista de dados recebeu o desafio de modelar uma máquina de aprendizado de classificação, capaz de prever o comportamento dos analistas no processo seletivo, ou seja, prever quais candidatos os analistas aprovariam em cada processo.
 
-Para isso: a base de dados disponibilizada possui informações dos candidatos: das vagas e do processo seletivo (se o candidato foi ou não aprovado no processo).
+Para isso: a base de dados disponibilizada possui informações dos candidatos, das vagas e do processo seletivo (se o candidato foi ou não aprovado no processo.
 
-Com a criação do modelo você permitirá que as pessoas certas sejam selecionadas para as vagas de forma mais rápida e eficaz: facilitando assim a vida dos analistas de RH e dos candidatos (quem não gostaria de receber o feedback de sua participação em um processo seletivo o mais rápido possível? ;o)
+Com a criação do modelo você permitirá que as pessoas certas sejam selecionadas para as vagas de forma mais rápida e eficaz, facilitando assim a vida dos analistas de RH e dos candidatos (quem não gostaria de receber o feedback de sua participação em um processo seletivo o mais rápido possível? ;o)
 
 ## Objetivo
 
