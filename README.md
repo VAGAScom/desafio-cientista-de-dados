@@ -1,5 +1,10 @@
 # Processo Seletivo Vagas - Cientista de Dados Sr.
 
+## Considerações sobre o desafio
+
+* O prazo padrão para entrega da solução é de 7 dias corridos, contados a partir da data de recebimento do desafio. Caso você precise de mais tempo, entre em contato conosco e fechamos uma nova data para a entrega. Não se preocupe, somos super flexíveis ;)
+* Quando estiver tudo pronto, você deve mandar um e-mail para codesubmissions@vagas.com.br com o assunto `Cientista de Dados VAGAS.com - <%SEU_NOME%>` e o link para o seu repositório.
+
 ## Descrição
 
 Os analistas de RH conduzem diversos processos seletivos simultaneamente e geralmente possuem pouco tempo para selecionarem o candidato certo para suas vagas.
