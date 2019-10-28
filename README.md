@@ -6,6 +6,9 @@
 * A solução poderá ser feita em Python ou R e deverá rodar em um notebook jupyter
 * Quando estiver tudo pronto, você deve mandar um e-mail para codesubmissions@vagas.com.br com o assunto `Cientista de Dados VAGAS.com - <%SEU_NOME%>` e o link para o seu repositório.
 
+## Sobre a Oportunidade
+[Detalhes da vaga de Ciêntista de Dados](https://trabalheconosco.vagas.com.br/vagas/oportunidade/cientista-de-dados-estatistico/1925657)
+
 ## Descrição
 
 Os analistas de RH conduzem diversos processos seletivos simultaneamente e geralmente possuem pouco tempo para selecionarem o candidato certo para suas vagas.
