@@ -7,7 +7,9 @@
 * Quando estiver tudo pronto, você deve mandar um e-mail para codesubmissions@vagas.com.br com o assunto `Cientista de Dados VAGAS.com - <%SEU_NOME%>` e o link para o seu repositório.
 
 ## Sobre a Oportunidade
+* Primeiro você deve se aplicar à vaga, em nosas plataforma
 [Detalhes da vaga de Ciêntista de Dados](https://trabalheconosco.vagas.com.br/vagas/oportunidade/cientista-de-dados-estatistico/1925657)
+* Após isso o prazo já começará a contar para a execução do teste.
 
 ## Descrição
 
